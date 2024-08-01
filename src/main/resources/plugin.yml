@@ -1,0 +1,4 @@
+name: MaxChatBusClient
+version: '${version}'
+main: com.iruanp.MaxChatBusClient
+api-version: '1.20.6'
